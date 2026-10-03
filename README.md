@@ -35,10 +35,10 @@ This project presents an end-to-end analysis of financial sales data to identify
 
 ## Deliverables
 - `cleaned_data.csv` — Cleaned dataset
-- `data_analysis.ipynb` — Python/Pandas analysis
-- `Financial_Data_Analysis.xlsx` — Excel analysis and charts
+- `Analysis.ipynb` — Python/Pandas analysis
+- `Pivot table.xlsx` — Excel analysis and charts
 - `Financial_Data_Analysis.pbix` — Power BI dashboard
-- `End-to-End_Business_Data_Analysis_Report.pdf` — Project report
+- `Final Project Report.pdf` — Project report
 
 ## Dashboard
 The Power BI dashboard contains:
